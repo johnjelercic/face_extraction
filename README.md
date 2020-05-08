@@ -6,7 +6,7 @@
   sh get-docker.sh
  ```
 
-Build with:
+### Build with:
 
   `docker build -t facext .`
 

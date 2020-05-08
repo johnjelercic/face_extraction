@@ -7,7 +7,8 @@
  ```
 
 Build with:
-    `docker build -t facext .`
+
+  `docker build -t facext .`
 
 ### Once the build completes you can test it with:
 `docker run --rm -ti -v /path/to/where/you/want/output/images:/Create-Face-Data-from-Images/faces facext`

@@ -38,3 +38,7 @@ Extracted 1419 faces from all images
 ### If you want to process your own images then add another volume pointed to your source images:
 
     `docker run --rm -ti -v /path/to/source/images:/Create-Face-Data-from-Images/images -v /path/to/where/you/want/output/images:/Create-Face-Data-from-Images/faces facext /bin/bash`
+
+
+### Acknowledgements
+Thanks to Jim Sims for assembling this!

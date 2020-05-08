@@ -41,4 +41,4 @@ Extracted 1419 faces from all images
 
 
 ### Acknowledgements
-Thanks to Jim Sims for assembling this!
+Thanks to Jim Sims for assembling this

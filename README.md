@@ -5,8 +5,8 @@
   curl -fsSL https://get.docker.com -o get-docker.sh
   sh get-docker.sh
  ```
-
-### Build with:
+ 
+### Pull Dockerfile to local folder, then build with:
 
   `docker build -t facext .`
 
